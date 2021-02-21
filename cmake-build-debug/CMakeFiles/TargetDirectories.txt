@@ -1,0 +1,3 @@
+/home/medo/CLionProjects/fibbonacci/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/medo/CLionProjects/fibbonacci/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/medo/CLionProjects/fibbonacci/cmake-build-debug/CMakeFiles/fibbonacci.dir
